@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "Q1",
+    "qNum": 1,
+    "question": "Find the smallest number which when divided by 12, 15, 20 and 27 leaves a remainder of 8 in each case.",
+    "options": {
+      "A": "558",
+      "B": "568",
+      "C": "540",
+      "D": "548"
+    },
+    "correctAnswer": "D",
+    "answerText": "548"
+  },
+  {
+    "id": "Q2",
+    "qNum": 2,
+    "question": "Find the greatest number which, when it divides 1251, 9377 and 15628, leaves remainders 1, 2 and 3 respectively.",
+    "options": {
+      "A": "250",
+      "B": "625",
+      "C": "1250",
+      "D": "125"
+    },
+    "correctAnswer": "B",
+    "answerText": "625"
+  },
+  {
+    "id": "Q3",
+    "qNum": 3,
+    "question": "The HCF of two numbers is 23 and the other two factors of their LCM are 13 and 14. The larger of the two numbers is:",
+    "options": {
+      "A": "276",
+      "B": "299",
+      "C": "322",
+      "D": "345"
+    },
+    "correctAnswer": "C",
+    "answerText": "322"
+  },
+  {
+    "id": "Q4",
+    "qNum": 4,
+    "question": "The sum of two numbers is 216 and their HCF is 27. How many such pairs of numbers are possible?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "correctAnswer": "D",
+    "answerText": "2"
+  },
+  {
+    "id": "Q5",
+    "qNum": 5,
+    "question": "The unit digit of (7^95 − 3^58) is:",
+    "options": {
+      "A": "2",
+      "B": "6",
+      "C": "4",
+      "D": "8"
+    },
+    "correctAnswer": "C",
+    "answerText": "4"
+  },
+  {
+    "id": "Q6",
+    "qNum": 6,
+    "question": "What is the remainder when 2^50 is divided by 7?",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "2",
+      "D": "6"
+    },
+    "correctAnswer": "B",
+    "answerText": "4"
+  },
+  {
+    "id": "Q7",
+    "qNum": 7,
+    "question": "The number of trailing zeros in 100! is:",
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "25",
+      "D": "22"
+    },
+    "correctAnswer": "B",
+    "answerText": "24"
+  },
+  {
+    "id": "Q8",
+    "qNum": 8,
+    "question": "The last two digits of 7^2024 are:",
+    "options": {
+      "A": "43",
+      "B": "49",
+      "C": "07",
+      "D": "01"
+    },
+    "correctAnswer": "D",
+    "answerText": "01"
+  },
+  {
+    "id": "Q9",
+    "qNum": 9,
+    "question": "What is the remainder when 3^100 is divided by 13?",
+    "options": {
+      "A": "9",
+      "B": "3",
+      "C": "12",
+      "D": "1"
+    },
+    "correctAnswer": "B",
+    "answerText": "3"
+  },
+  {
+    "id": "Q10",
+    "qNum": 10,
+    "question": "If the five-digit number 6x37y is divisible by 72, then the value of (x + y) is:",
+    "options": {
+      "A": "11",
+      "B": "7",
+      "C": "13",
+      "D": "9"
+    },
+    "correctAnswer": "A",
+    "answerText": "11"
+  },
+  {
+    "id": "Q11",
+    "qNum": 11,
+    "question": "The number of positive divisors of 7200 is:",
+    "options": {
+      "A": "48",
+      "B": "60",
+      "C": "54",
+      "D": "45"
+    },
+    "correctAnswer": "C",
+    "answerText": "54"
+  },
+  {
+    "id": "Q12",
+    "qNum": 12,
+    "question": "The sum of all positive divisors of 360 is:",
+    "options": {
+      "A": "1050",
+      "B": "1080",
+      "C": "1200",
+      "D": "1170"
+    },
+    "correctAnswer": "D",
+    "answerText": "1170"
+  },
+  {
+    "id": "Q13",
+    "qNum": 13,
+    "question": "The number of divisors of 7200 that are perfect squares is:",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "8",
+      "D": "16"
+    },
+    "correctAnswer": "A",
+    "answerText": "12"
+  },
+  {
+    "id": "Q14",
+    "qNum": 14,
+    "question": "The LCM of 2/3, 4/9 and 8/15 is:",
+    "options": {
+      "A": "8/45",
+      "B": "8/3",
+      "C": "2/45",
+      "D": "16/3"
+    },
+    "correctAnswer": "B",
+    "answerText": "8/3"
+  },
+  {
+    "id": "Q15",
+    "qNum": 15,
+    "question": "The HCF of 4/9, 10/27 and 16/81 is:",
+    "options": {
+      "A": "2/27",
+      "B": "2/81",
+      "C": "2/9",
+      "D": "4/81"
+    },
+    "correctAnswer": "B",
+    "answerText": "2/81"
+  },
+  {
+    "id": "Q16",
+    "qNum": 16,
+    "question": "The largest 4-digit number exactly divisible by 12, 18, 21 and 28 is:",
+    "options": {
+      "A": "9954",
+      "B": "9576",
+      "C": "9900",
+      "D": "9828"
+    },
+    "correctAnswer": "D",
+    "answerText": "9828"
+  },
+  {
+    "id": "Q17",
+    "qNum": 17,
+    "question": "How many integers from 1 to 500 are divisible by neither 3, nor 5, nor 7?",
+    "options": {
+      "A": "231",
+      "B": "237",
+      "C": "229",
+      "D": "225"
+    },
+    "correctAnswer": "C",
+    "answerText": "229"
+  },
+  {
+    "id": "Q18",
+    "qNum": 18,
+    "question": "How many integers from 1 to 1000 are divisible by 7 but not by 11?",
+    "options": {
+      "A": "142",
+      "B": "131",
+      "C": "129",
+      "D": "130"
+    },
+    "correctAnswer": "D",
+    "answerText": "130"
+  },
+  {
+    "id": "Q19",
+    "qNum": 19,
+    "question": "What is the remainder when 1! + 2! + 3! + ... + 50! is divided by 15?",
+    "options": {
+      "A": "6",
+      "B": "3",
+      "C": "0",
+      "D": "9"
+    },
+    "correctAnswer": "B",
+    "answerText": "3"
+  },
+  {
+    "id": "Q20",
+    "qNum": 20,
+    "question": "What is the remainder when 5^99 is divided by 13?",
+    "options": {
+      "A": "1",
+      "B": "5",
+      "C": "8",
+      "D": "12"
+    },
+    "correctAnswer": "C",
+    "answerText": "8"
+  },
+  {
+    "id": "Q21",
+    "qNum": 21,
+    "question": "The average of 11 results is 50. The average of the first six is 49 and that of the last six is 52. The sixth result is:",
+    "options": {
+      "A": "56",
+      "B": "54",
+      "C": "52",
+      "D": "58"
+    },
+    "correctAnswer": "A",
+    "answerText": "56"
+  },
+  {
+    "id": "Q22",
+    "qNum": 22,
+    "question": "The average age of a class of 30 students is 15 years. When the teacher’s age is included, the average rises by 1 year. The teacher’s age is:",
+    "options": {
+      "A": "46",
+      "B": "48",
+      "C": "44",
+      "D": "50"
+    },
+    "correctAnswer": "A",
+    "answerText": "46"
+  },
+  {
+    "id": "Q23",
+    "qNum": 23,
+    "question": "The average of a batsman after 17 innings increases by 3 when he scores 87 in the 17th innings. His average after the 17th innings is:",
+    "options": {
+      "A": "42",
+      "B": "45",
+      "C": "36",
+      "D": "39"
+    },
+    "correctAnswer": "D",
+    "answerText": "39"
+  },
+  {
+    "id": "Q24",
+    "qNum": 24,
+    "question": "Sections A, B and C have 40, 60 and 50 students with average marks 72, 65 and 78 respectively. The average marks of all the students together is:",
+    "options": {
+      "A": "70.6",
+      "B": "72.0",
+      "C": "71.2",
+      "D": "71.8"
+    },
+    "correctAnswer": "C",
+    "answerText": "71.2"
+  },
+  {
+    "id": "Q25",
+    "qNum": 25,
+    "question": "The average of 10 numbers is 40. If each of the first five numbers is increased by 4 and each of the remaining five is decreased by 2, the new average is:",
+    "options": {
+      "A": "41",
+      "B": "42",
+      "C": "43",
+      "D": "40"
+    },
+    "correctAnswer": "A",
+    "answerText": "41"
+  },
+  {
+    "id": "Q26",
+    "qNum": 26,
+    "question": "The average of 8 numbers is 25. If two numbers 18 and 22 are replaced by 40 and 46, the new average is:",
+    "options": {
+      "A": "30.75",
+      "B": "32.00",
+      "C": "29.5",
+      "D": "31.25"
+    },
+    "correctAnswer": "A",
+    "answerText": "30.75"
+  },
+  {
+    "id": "Q27",
+    "qNum": 27,
+    "question": "The average of the squares of the first 10 natural numbers is:",
+    "options": {
+      "A": "55",
+      "B": "40.5",
+      "C": "38.5",
+      "D": "35.5"
+    },
+    "correctAnswer": "C",
+    "answerText": "38.5"
+  },
+  {
+    "id": "Q28",
+    "qNum": 28,
+    "question": "The average of 50 numbers is 38. If two numbers 45 and 55 are removed, the average of the remaining numbers is:",
+    "options": {
+      "A": "37.5",
+      "B": "37.0",
+      "C": "38.5",
+      "D": "36.5"
+    },
+    "correctAnswer": "A",
+    "answerText": "37.5"
+  },
+  {
+    "id": "Q29",
+    "qNum": 29,
+    "question": "The average of a, b and c is 12, and the average of a and b is 9.5. The value of c is:",
+    "options": {
+      "A": "17",
+      "B": "18",
+      "C": "16",
+      "D": "15"
+    },
+    "correctAnswer": "A",
+    "answerText": "17"
+  },
+  {
+    "id": "Q30",
+    "qNum": 30,
+    "question": "A cricketer’s average after 12 innings is 48. His highest score exceeds his lowest by 20, and excluding these two innings the average of the other 10 is 46. His highest score is:",
+    "options": {
+      "A": "68",
+      "B": "70",
+      "C": "64",
+      "D": "66"
+    },
+    "correctAnswer": "A",
+    "answerText": "68"
+  },
+  {
+    "id": "Q31",
+    "qNum": 31,
+    "question": "Two numbers are in the ratio 3 : 4. If each is increased by 6, the ratio becomes 4 : 5. The larger of the original numbers is:",
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "32",
+      "D": "28"
+    },
+    "correctAnswer": "B",
+    "answerText": "24"
+  },
+  {
+    "id": "Q32",
+    "qNum": 32,
+    "question": "Rs 1540 is divided among A, B and C such that A : B = 2 : 3 and B : C = 4 : 5. B’s share is:",
+    "options": {
+      "A": "Rs 660",
+      "B": "Rs 528",
+      "C": "Rs 576",
+      "D": "Rs 480"
+    },
+    "correctAnswer": "B",
+    "answerText": "Rs 528"
+  },
+  {
+    "id": "Q33",
+    "qNum": 33,
+    "question": "A 60-litre mixture contains milk and water in the ratio 2 : 1. How much water must be added to make the ratio 1 : 2?",
+    "options": {
+      "A": "80 L",
+      "B": "40 L",
+      "C": "60 L",
+      "D": "50 L"
+    },
+    "correctAnswer": "C",
+    "answerText": "60 L"
+  },
+  {
+    "id": "Q34",
+    "qNum": 34,
+    "question": "A vessel contains 40 litres of pure milk. 4 litres are removed and replaced by water; the process is repeated twice more (three times in all). The quantity of milk left is:",
+    "options": {
+      "A": "30.24 L",
+      "B": "32.4 L",
+      "C": "29.16 L",
+      "D": "28.8 L"
+    },
+    "correctAnswer": "C",
+    "answerText": "29.16 L"
+  },
+  {
+    "id": "Q35",
+    "qNum": 35,
+    "question": "Two vessels contain alcohol and water in the ratios 2 : 3 and 7 : 3. In what ratio should they be mixed to get a mixture with alcohol and water in equal quantities?",
+    "options": {
+      "A": "1 : 1",
+      "B": "2 : 1",
+      "C": "3 : 2",
+      "D": "1 : 2"
+    },
+    "correctAnswer": "B",
+    "answerText": "2 : 1"
+  },
+  {
+    "id": "Q36",
+    "qNum": 36,
+    "question": "The incomes of A and B are in the ratio 5 : 4 and their expenditures in the ratio 3 : 2. If each saves Rs 1600, A’s income is:",
+    "options": {
+      "A": "Rs 4000",
+      "B": "Rs 6000",
+      "C": "Rs 3000",
+      "D": "Rs 5000"
+    },
+    "correctAnswer": "A",
+    "answerText": "Rs 4000"
+  },
+  {
+    "id": "Q37",
+    "qNum": 37,
+    "question": "The third proportional to 0.36 and 0.48 is:",
+    "options": {
+      "A": "0.54",
+      "B": "0.72",
+      "C": "0.64",
+      "D": "0.60"
+    },
+    "correctAnswer": "C",
+    "answerText": "0.64"
+  },
+  {
+    "id": "Q38",
+    "qNum": 38,
+    "question": "The mean proportional between 0.0009 and 0.16 is:",
+    "options": {
+      "A": "0.012",
+      "B": "0.12",
+      "C": "0.0012",
+      "D": "0.024"
+    },
+    "correctAnswer": "A",
+    "answerText": "0.012"
+  },
+  {
+    "id": "Q39",
+    "qNum": 39,
+    "question": "If a : b = 2 : 3, b : c = 4 : 5 and c : d = 6 : 7, then a : d is:",
+    "options": {
+      "A": "48 : 35",
+      "B": "16 : 35",
+      "C": "16 : 25",
+      "D": "12 : 35"
+    },
+    "correctAnswer": "B",
+    "answerText": "16 : 35"
+  },
+  {
+    "id": "Q40",
+    "qNum": 40,
+    "question": "If (a + b) : (a − b) = 7 : 3, then (a² + b²) : ab is:",
+    "options": {
+      "A": "7 : 3",
+      "B": "29 : 21",
+      "C": "29 : 10",
+      "D": "25 : 4"
+    },
+    "correctAnswer": "C",
+    "answerText": "29 : 10"
+  },
+  {
+    "id": "Q41",
+    "qNum": 41,
+    "question": "18 men working 8 hours a day can build a wall in 42 days. In how many days can 14 men working 9 hours a day build it?",
+    "options": {
+      "A": "45",
+      "B": "54",
+      "C": "48",
+      "D": "42"
+    },
+    "correctAnswer": "C",
+    "answerText": "48"
+  },
+  {
+    "id": "Q42",
+    "qNum": 42,
+    "question": "x varies directly as y² and inversely as z. If x = 12 when y = 4 and z = 8, then x when y = 6 and z = 9 is:",
+    "options": {
+      "A": "18",
+      "B": "27",
+      "C": "24",
+      "D": "36"
+    },
+    "correctAnswer": "C",
+    "answerText": "24"
+  },
+  {
+    "id": "Q43",
+    "qNum": 43,
+    "question": "A number is increased by 20%, then decreased by 25%, and then increased by 10%. The net change is:",
+    "options": {
+      "A": "3% decrease",
+      "B": "No change",
+      "C": "1% increase",
+      "D": "1% decrease"
+    },
+    "correctAnswer": "D",
+    "answerText": "1% decrease"
+  },
+  {
+    "id": "Q44",
+    "qNum": 44,
+    "question": "The price of sugar rises by 25% and then by a further 20%. By what percentage must a household reduce consumption to keep its expenditure unchanged?",
+    "options": {
+      "A": "30%",
+      "B": "33 1/3%",
+      "C": "45%",
+      "D": "35%"
+    },
+    "correctAnswer": "B",
+    "answerText": "33 1/3%"
+  },
+  {
+    "id": "Q45",
+    "qNum": 45,
+    "question": "A town’s population of 40,000 increases 10% in the first year, decreases 5% in the second, and increases 20% in the third. The population after three years is:",
+    "options": {
+      "A": "50,160",
+      "B": "50,600",
+      "C": "51,200",
+      "D": "49,920"
+    },
+    "correctAnswer": "A",
+    "answerText": "50,160"
+  },
+  {
+    "id": "Q46",
+    "qNum": 46,
+    "question": "In an election between two candidates, the winner secured 55% of the valid votes and won by 1200 votes. If 20% of all votes polled were invalid, the total votes polled were:",
+    "options": {
+      "A": "18,000",
+      "B": "14,000",
+      "C": "16,000",
+      "D": "15,000"
+    },
+    "correctAnswer": "D",
+    "answerText": "15,000"
+  },
+  {
+    "id": "Q47",
+    "qNum": 47,
+    "question": "A’s salary is 37.5% more than B’s. B’s salary is less than A’s by:",
+    "options": {
+      "A": "27 3/11 %",
+      "B": "25%",
+      "C": "26.5%",
+      "D": "37.5%"
+    },
+    "correctAnswer": "A",
+    "answerText": "27 3/11 %"
+  },
+  {
+    "id": "Q48",
+    "qNum": 48,
+    "question": "If 40% of A = 30% of B = 20% of C, then A : B : C is:",
+    "options": {
+      "A": "4 : 3 : 2",
+      "B": "2 : 3 : 4",
+      "C": "3 : 4 : 6",
+      "D": "6 : 4 : 3"
+    },
+    "correctAnswer": "C",
+    "answerText": "3 : 4 : 6"
+  },
+  {
+    "id": "Q49",
+    "qNum": 49,
+    "question": "A student needs 40% to pass. He scored 120 marks and failed by 60 marks. The maximum marks are:",
+    "options": {
+      "A": "500",
+      "B": "450",
+      "C": "600",
+      "D": "400"
+    },
+    "correctAnswer": "B",
+    "answerText": "450"
+  },
+  {
+    "id": "Q50",
+    "qNum": 50,
+    "question": "A rectangle’s length is increased by 50% and its breadth is decreased so that the area increases by only 20%. The breadth is decreased by:",
+    "options": {
+      "A": "25%",
+      "B": "15%",
+      "C": "20%",
+      "D": "30%"
+    },
+    "correctAnswer": "C",
+    "answerText": "20%"
+  },
+  {
+    "id": "Q51",
+    "qNum": 51,
+    "question": "A machine worth Rs 1,00,000 depreciates by 10% in the first year and 15% in the second year. Its value after two years is:",
+    "options": {
+      "A": "Rs 75,000",
+      "B": "Rs 77,000",
+      "C": "Rs 76,500",
+      "D": "Rs 78,500"
+    },
+    "correctAnswer": "C",
+    "answerText": "Rs 76,500"
+  },
+  {
+    "id": "Q52",
+    "qNum": 52,
+    "question": "A’s income is 40% more than B’s, and C’s income is 20% less than A’s. C’s income compared with B’s is:",
+    "options": {
+      "A": "12% less",
+      "B": "8% more",
+      "C": "20% more",
+      "D": "12% more"
+    },
+    "correctAnswer": "D",
+    "answerText": "12% more"
+  },
+  {
+    "id": "Q53",
+    "qNum": 53,
+    "question": "How many litres of a 50% alcohol solution must be added to 40 litres of a 30% alcohol solution to obtain a 45% solution?",
+    "options": {
+      "A": "120 L",
+      "B": "160 L",
+      "C": "150 L",
+      "D": "100 L"
+    },
+    "correctAnswer": "A",
+    "answerText": "120 L"
+  },
+  {
+    "id": "Q54",
+    "qNum": 54,
+    "question": "In an exam, 70% of candidates passed Mathematics, 65% passed Physics, and 10% failed both. The percentage passing both subjects is:",
+    "options": {
+      "A": "55%",
+      "B": "50%",
+      "C": "40%",
+      "D": "45%"
+    },
+    "correctAnswer": "D",
+    "answerText": "45%"
+  },
+  {
+    "id": "Q55",
+    "qNum": 55,
+    "question": "A student scores 40% in the first paper (maximum 150) and 55% in the second paper (maximum 200). His overall percentage is:",
+    "options": {
+      "A": "50%",
+      "B": "49.2%",
+      "C": "47.5%",
+      "D": "48 4/7 %"
+    },
+    "correctAnswer": "D",
+    "answerText": "48 4/7 %"
+  },
+  {
+    "id": "Q56",
+    "qNum": 56,
+    "question": "A town’s present population is 1,32,300 and it grows by 5% every year. Its population two years ago was:",
+    "options": {
+      "A": "1,25,000",
+      "B": "1,20,000",
+      "C": "1,22,500",
+      "D": "1,18,000"
+    },
+    "correctAnswer": "B",
+    "answerText": "1,20,000"
+  },
+  {
+    "id": "Q57",
+    "qNum": 57,
+    "question": "A number is first increased by x% and then decreased by x%. The final value is 96% of the original. The value of x is:",
+    "options": {
+      "A": "25",
+      "B": "10",
+      "C": "20",
+      "D": "15"
+    },
+    "correctAnswer": "C",
+    "answerText": "20"
+  },
+  {
+    "id": "Q58",
+    "qNum": 58,
+    "question": "In a school, 40% of the students are girls. 30% of the boys and 20% of the girls are scholars. The percentage of non-scholars is:",
+    "options": {
+      "A": "76%",
+      "B": "74%",
+      "C": "72%",
+      "D": "70%"
+    },
+    "correctAnswer": "B",
+    "answerText": "74%"
+  },
+  {
+    "id": "Q59",
+    "qNum": 59,
+    "question": "The sum of two numbers is 120. If 20% of the first equals 30% of the second, the larger number is:",
+    "options": {
+      "A": "80",
+      "B": "76",
+      "C": "66",
+      "D": "72"
+    },
+    "correctAnswer": "D",
+    "answerText": "72"
+  },
+  {
+    "id": "Q60",
+    "qNum": 60,
+    "question": "Two numbers are 30% and 45% less than a third number. The second number is what percent less than the first?",
+    "options": {
+      "A": "22 2/7 %",
+      "B": "25%",
+      "C": "21 3/7 %",
+      "D": "15%"
+    },
+    "correctAnswer": "C",
+    "answerText": "21 3/7 %"
+  },
+  {
+    "id": "Q61",
+    "qNum": 61,
+    "question": "If an article is sold at a 10% loss instead of at a 15% gain, the selling price is Rs 500 less. The cost price of the article is:",
+    "options": {
+      "A": "Rs 2200",
+      "B": "Rs 2000",
+      "C": "Rs 2500",
+      "D": "Rs 1800"
+    },
+    "correctAnswer": "B",
+    "answerText": "Rs 2000"
+  },
+  {
+    "id": "Q62",
+    "qNum": 62,
+    "question": "A dealer’s cost is Rs 100 per kg. He uses a weight marked ‘1 kg’ which is actually 800 g and sells at Rs 90 per ‘kg’. His profit percent is:",
+    "options": {
+      "A": "12.5%",
+      "B": "10%",
+      "C": "25%",
+      "D": "15%"
+    },
+    "correctAnswer": "A",
+    "answerText": "12.5%"
+  },
+  {
+    "id": "Q63",
+    "qNum": 63,
+    "question": "A shopkeeper marks goods 25% above cost price and allows two successive discounts of 10% each. His net profit percent is:",
+    "options": {
+      "A": "2.5%",
+      "B": "1%",
+      "C": "1.25%",
+      "D": "0.75%"
+    },
+    "correctAnswer": "C",
+    "answerText": "1.25%"
+  },
+  {
+    "id": "Q64",
+    "qNum": 64,
+    "question": "The single discount equivalent to successive discounts of 20%, 15% and 10% is:",
+    "options": {
+      "A": "38.8%",
+      "B": "35.5%",
+      "C": "45%",
+      "D": "40%"
+    },
+    "correctAnswer": "A",
+    "answerText": "38.8%"
+  },
+  {
+    "id": "Q65",
+    "qNum": 65,
+    "question": "A shopkeeper earns 20% profit after allowing a 25% discount on the marked price. The marked price is what percent above the cost price?",
+    "options": {
+      "A": "65%",
+      "B": "60%",
+      "C": "50%",
+      "D": "55%"
+    },
+    "correctAnswer": "B",
+    "answerText": "60%"
+  },
+  {
+    "id": "Q66",
+    "qNum": 66,
+    "question": "Two articles are each sold for Rs 1980, one at a 10% gain and the other at a 10% loss. The overall loss is:",
+    "options": {
+      "A": "Rs 40",
+      "B": "Rs 36",
+      "C": "Rs 44",
+      "D": "Rs 0"
+    },
+    "correctAnswer": "A",
+    "answerText": "Rs 40"
+  },
+  {
+    "id": "Q67",
+    "qNum": 67,
+    "question": "A sells an article to B at 20% profit and B sells it to C at 25% profit. If C pays Rs 1500, A’s cost price was:",
+    "options": {
+      "A": "Rs 1100",
+      "B": "Rs 1000",
+      "C": "Rs 900",
+      "D": "Rs 1200"
+    },
+    "correctAnswer": "B",
+    "answerText": "Rs 1000"
+  },
+  {
+    "id": "Q68",
+    "qNum": 68,
+    "question": "A trader offers ‘buy 4, get 1 free’ on an item whose marked price is 50% above its cost price. His profit percent is:",
+    "options": {
+      "A": "15%",
+      "B": "20%",
+      "C": "30%",
+      "D": "25%"
+    },
+    "correctAnswer": "B",
+    "answerText": "20%"
+  },
+  {
+    "id": "Q69",
+    "qNum": 69,
+    "question": "By selling 45 oranges for Rs 40, a man loses 20%. How many oranges should he sell for Rs 24 to gain 20%?",
+    "options": {
+      "A": "24",
+      "B": "18",
+      "C": "16",
+      "D": "20"
+    },
+    "correctAnswer": "B",
+    "answerText": "18"
+  },
+  {
+    "id": "Q70",
+    "qNum": 70,
+    "question": "The profit from selling an article at Rs 900 is twice the loss from selling it at Rs 450. The cost price is:",
+    "options": {
+      "A": "Rs 650",
+      "B": "Rs 500",
+      "C": "Rs 600",
+      "D": "Rs 550"
+    },
+    "correctAnswer": "C",
+    "answerText": "Rs 600"
+  },
+  {
+    "id": "Q71",
+    "qNum": 71,
+    "question": "At simple interest, a sum becomes 3 times itself in 16 years. In how many years will it become 5 times itself?",
+    "options": {
+      "A": "24 years",
+      "B": "40 years",
+      "C": "48 years",
+      "D": "32 years"
+    },
+    "correctAnswer": "D",
+    "answerText": "32 years"
+  },
+  {
+    "id": "Q72",
+    "qNum": 72,
+    "question": "The simple interest on a sum for 2 years at 8% p.a. is Rs 1600. The compound interest on the same sum for the same period and rate is:",
+    "options": {
+      "A": "Rs 1600",
+      "B": "Rs 1648",
+      "C": "Rs 1664",
+      "D": "Rs 1680"
+    },
+    "correctAnswer": "C",
+    "answerText": "Rs 1664"
+  },
+  {
+    "id": "Q73",
+    "qNum": 73,
+    "question": "The difference between compound interest and simple interest on Rs 5000 for 3 years at 10% p.a. is:",
+    "options": {
+      "A": "Rs 150",
+      "B": "Rs 165",
+      "C": "Rs 160",
+      "D": "Rs 155"
+    },
+    "correctAnswer": "D",
+    "answerText": "Rs 155"
+  },
+  {
+    "id": "Q74",
+    "qNum": 74,
+    "question": "A sum at compound interest amounts to Rs 6050 in 2 years and Rs 6655 in 3 years. The principal is:",
+    "options": {
+      "A": "Rs 5000",
+      "B": "Rs 4800",
+      "C": "Rs 5500",
+      "D": "Rs 4500"
+    },
+    "correctAnswer": "A",
+    "answerText": "Rs 5000"
+  },
+  {
+    "id": "Q75",
+    "qNum": 75,
+    "question": "The compound interest on Rs 10,000 for 1½ years at 20% p.a., compounded half-yearly, is:",
+    "options": {
+      "A": "Rs 3000",
+      "B": "Rs 3641",
+      "C": "Rs 3200",
+      "D": "Rs 3310"
+    },
+    "correctAnswer": "D",
+    "answerText": "Rs 3310"
+  },
+  {
+    "id": "Q76",
+    "qNum": 76,
+    "question": "Rs 12,000 is lent partly at 6% and partly at 10% simple interest p.a. The total yearly interest is Rs 880. The amount lent at 6% is:",
+    "options": {
+      "A": "Rs 6000",
+      "B": "Rs 8000",
+      "C": "Rs 4000",
+      "D": "Rs 7000"
+    },
+    "correctAnswer": "B",
+    "answerText": "Rs 8000"
+  },
+  {
+    "id": "Q77",
+    "qNum": 77,
+    "question": "A loan at 5% p.a. compound interest is repaid in two equal annual instalments of Rs 5292 each. The loan amount is:",
+    "options": {
+      "A": "Rs 9600",
+      "B": "Rs 10,000",
+      "C": "Rs 9840",
+      "D": "Rs 10,584"
+    },
+    "correctAnswer": "C",
+    "answerText": "Rs 9840"
+  },
+  {
+    "id": "Q78",
+    "qNum": 78,
+    "question": "For a certain sum, the simple interest for 2 years is Rs 600 and the compound interest for 2 years is Rs 630. The rate of interest per annum is:",
+    "options": {
+      "A": "8%",
+      "B": "5%",
+      "C": "10%",
+      "D": "12%"
+    },
+    "correctAnswer": "C",
+    "answerText": "10%"
+  },
+  {
+    "id": "Q79",
+    "qNum": 79,
+    "question": "A nominal rate of 8% p.a. compounded half-yearly corresponds to an effective annual rate of:",
+    "options": {
+      "A": "8.32%",
+      "B": "8.24%",
+      "C": "8%",
+      "D": "8.16%"
+    },
+    "correctAnswer": "D",
+    "answerText": "8.16%"
+  },
+  {
+    "id": "Q80",
+    "qNum": 80,
+    "question": "In how many years will Rs 8000 amount to Rs 9261 at 10% p.a. compounded half-yearly?",
+    "options": {
+      "A": "2 years",
+      "B": "1 year",
+      "C": "2½ years",
+      "D": "1½ years"
+    },
+    "correctAnswer": "D",
+    "answerText": "1½ years"
+  },
+  {
+    "id": "Q81",
+    "qNum": 81,
+    "question": "[Annual sales in Rs lakh of four products, years 2022 | 2023 | 2024 | 2025 – Alpha: 40, 50, 60, 72; Beta: 30, 45, 54, 63; Gamma: 50, 40, 55, 66; Delta: 20, 35, 42, 56]. The percentage growth in the sales of Alpha from 2022 to 2025 is:",
+    "options": {
+      "A": "90%",
+      "B": "80%",
+      "C": "60%",
+      "D": "72%"
+    },
+    "correctAnswer": "B",
+    "answerText": "80%"
+  },
+  {
+    "id": "Q82",
+    "qNum": 82,
+    "question": "[Annual sales in Rs lakh of four products, years 2022 | 2023 | 2024 | 2025 – Alpha: 40, 50, 60, 72; Beta: 30, 45, 54, 63; Gamma: 50, 40, 55, 66; Delta: 20, 35, 42, 56]. Gamma’s sales in 2024 as a percentage of the total sales of all four products in 2024 is approximately:",
+    "options": {
+      "A": "27.50%",
+      "B": "29.00%",
+      "C": "26.07%",
+      "D": "24.50%"
+    },
+    "correctAnswer": "C",
+    "answerText": "26.07%"
+  },
+  {
+    "id": "Q83",
+    "qNum": 83,
+    "question": "[Annual sales in Rs lakh of four products, years 2022 | 2023 | 2024 | 2025 – Alpha: 40, 50, 60, 72; Beta: 30, 45, 54, 63; Gamma: 50, 40, 55, 66; Delta: 20, 35, 42, 56]. The ratio of the total four-year sales of Alpha to that of Delta is:",
+    "options": {
+      "A": "148 : 101",
+      "B": "3 : 2",
+      "C": "37 : 25",
+      "D": "74 : 51"
+    },
+    "correctAnswer": "D",
+    "answerText": "74 : 51"
+  },
+  {
+    "id": "Q84",
+    "qNum": 84,
+    "question": "[Annual sales in Rs lakh of four products, years 2022 | 2023 | 2024 | 2025 – Alpha: 40, 50, 60, 72; Beta: 30, 45, 54, 63; Gamma: 50, 40, 55, 66; Delta: 20, 35, 42, 56]. In which year was the percentage increase in the total sales (all four products) over the previous year the highest?",
+    "options": {
+      "A": "2023 and 2025 equally",
+      "B": "2023",
+      "C": "2025",
+      "D": "2024"
+    },
+    "correctAnswer": "D",
+    "answerText": "2024"
+  },
+  {
+    "id": "Q85",
+    "qNum": 85,
+    "question": "[Annual sales in Rs lakh of four products, years 2022 | 2023 | 2024 | 2025 – Alpha: 40, 50, 60, 72; Beta: 30, 45, 54, 63; Gamma: 50, 40, 55, 66; Delta: 20, 35, 42, 56]. The difference between the average annual sales of Alpha and Gamma over the four years is:",
+    "options": {
+      "A": "Rs 2.75 lakh",
+      "B": "Rs 3.75 lakh",
+      "C": "Rs 2.25 lakh",
+      "D": "Rs 3.25 lakh"
+    },
+    "correctAnswer": "A",
+    "answerText": "Rs 2.75 lakh"
+  },
+  {
+    "id": "Q86",
+    "qNum": 86,
+    "question": "[Annual budget Rs 480 crore, share of budget (%) – Salaries: 30; Raw material: 25; Marketing: 15; Research & Development: 12; Logistics: 10; Others: 8]. The total amount spent on Research & Development and Logistics together is:",
+    "options": {
+      "A": "Rs 100.8 crore",
+      "B": "Rs 105.6 crore",
+      "C": "Rs 110.4 crore",
+      "D": "Rs 96 crore"
+    },
+    "correctAnswer": "B",
+    "answerText": "Rs 105.6 crore"
+  },
+  {
+    "id": "Q87",
+    "qNum": 87,
+    "question": "[Annual budget Rs 480 crore, share of budget (%) – Salaries: 30; Raw material: 25; Marketing: 15; Research & Development: 12; Logistics: 10; Others: 8]. In a pie chart of this data, the difference between the central angles for Raw material and for R&D is:",
+    "options": {
+      "A": "43.2°",
+      "B": "46.8°",
+      "C": "54°",
+      "D": "50.4°"
+    },
+    "correctAnswer": "B",
+    "answerText": "46.8°"
+  },
+  {
+    "id": "Q88",
+    "qNum": 88,
+    "question": "[Annual budget Rs 480 crore, share of budget (%) – Salaries: 30; Raw material: 25; Marketing: 15; Research & Development: 12; Logistics: 10; Others: 8]. If the Marketing amount is increased by 20% and the Salaries amount is decreased by 10% (other heads unchanged), the new share of Marketing in the total budget is:",
+    "options": {
+      "A": "18%",
+      "B": "17.5%",
+      "C": "18.5%",
+      "D": "19%"
+    },
+    "correctAnswer": "A",
+    "answerText": "18%"
+  },
+  {
+    "id": "Q89",
+    "qNum": 89,
+    "question": "[Annual budget Rs 480 crore, share of budget (%) – Salaries: 30; Raw material: 25; Marketing: 15; Research & Development: 12; Logistics: 10; Others: 8]. The expenditure on Raw material exceeds the combined expenditure on R&D and Others by:",
+    "options": {
+      "A": "20%",
+      "B": "35%",
+      "C": "30%",
+      "D": "25%"
+    },
+    "correctAnswer": "D",
+    "answerText": "25%"
+  },
+  {
+    "id": "Q90",
+    "qNum": 90,
+    "question": "[Annual budget Rs 480 crore, share of budget (%) – Salaries: 30; Raw material: 25; Marketing: 15; Research & Development: 12; Logistics: 10; Others: 8]. Next year the budget rises by 15% and Logistics gets 12% of it. The percentage increase in the amount for Logistics is:",
+    "options": {
+      "A": "38%",
+      "B": "28%",
+      "C": "33%",
+      "D": "42%"
+    },
+    "correctAnswer": "A",
+    "answerText": "38%"
+  },
+  {
+    "id": "Q91",
+    "qNum": 91,
+    "question": "A can do a job in 12 days, B in 18 days and C in 36 days. A and B work together for 4 days, after which C joins them. The total time taken to finish the job is:",
+    "options": {
+      "A": "7 1/3 days",
+      "B": "6 days",
+      "C": "7 days",
+      "D": "6 2/3 days"
+    },
+    "correctAnswer": "D",
+    "answerText": "6 2/3 days"
+  },
+  {
+    "id": "Q92",
+    "qNum": 92,
+    "question": "A is twice as efficient as B, and together they finish a job in 12 days. A alone can finish it in:",
+    "options": {
+      "A": "16 days",
+      "B": "24 days",
+      "C": "20 days",
+      "D": "18 days"
+    },
+    "correctAnswer": "D",
+    "answerText": "18 days"
+  },
+  {
+    "id": "Q93",
+    "qNum": 93,
+    "question": "12 men or 18 women can finish a job in 14 days. 8 men and 16 women together can finish it in:",
+    "options": {
+      "A": "12 days",
+      "B": "9 days",
+      "C": "10 days",
+      "D": "8 days"
+    },
+    "correctAnswer": "B",
+    "answerText": "9 days"
+  },
+  {
+    "id": "Q94",
+    "qNum": 94,
+    "question": "A and B together can do a job in 20 days, B and C in 30 days, and C and A in 24 days. All three together can do it in:",
+    "options": {
+      "A": "16 days",
+      "B": "20 days",
+      "C": "18 days",
+      "D": "14 days"
+    },
+    "correctAnswer": "A",
+    "answerText": "16 days"
+  },
+  {
+    "id": "Q95",
+    "qNum": 95,
+    "question": "Pipes A and B fill a tank in 20 and 30 minutes, and pipe C empties it in 40 minutes. If all three are opened together, the tank is filled in:",
+    "options": {
+      "A": "16 min",
+      "B": "17 1/7 min",
+      "C": "15 min",
+      "D": "18¾ min"
+    },
+    "correctAnswer": "B",
+    "answerText": "17 1/7 min"
+  },
+  {
+    "id": "Q96",
+    "qNum": 96,
+    "question": "A can do a job in 10 days and B in 15 days. They work on alternate days, starting with A. The job is completed in:",
+    "options": {
+      "A": "13 days",
+      "B": "12 days",
+      "C": "11 days",
+      "D": "12½ days"
+    },
+    "correctAnswer": "B",
+    "answerText": "12 days"
+  },
+  {
+    "id": "Q97",
+    "qNum": 97,
+    "question": "A and B can complete a job in 20 and 30 days respectively. They start together but A leaves 5 days before the job is completed. The job is completed in:",
+    "options": {
+      "A": "16 days",
+      "B": "14 days",
+      "C": "12 days",
+      "D": "15 days"
+    },
+    "correctAnswer": "D",
+    "answerText": "15 days"
+  },
+  {
+    "id": "Q98",
+    "qNum": 98,
+    "question": "A, B and C can do a job in 6, 8 and 12 days respectively. They complete it together and receive Rs 5400. B’s share is:",
+    "options": {
+      "A": "Rs 2400",
+      "B": "Rs 1500",
+      "C": "Rs 2000",
+      "D": "Rs 1800"
+    },
+    "correctAnswer": "D",
+    "answerText": "Rs 1800"
+  },
+  {
+    "id": "Q99",
+    "qNum": 99,
+    "question": "20 men can build 560 m of road in 14 days. How many men are needed to build 1200 m in 25 days, working the same hours?",
+    "options": {
+      "A": "30",
+      "B": "28",
+      "C": "20",
+      "D": "24"
+    },
+    "correctAnswer": "D",
+    "answerText": "24"
+  },
+  {
+    "id": "Q100",
+    "qNum": 100,
+    "question": "A is 25% more efficient than B. B takes 10 days more than A to finish a job. A alone takes:",
+    "options": {
+      "A": "45 days",
+      "B": "40 days",
+      "C": "30 days",
+      "D": "36 days"
+    },
+    "correctAnswer": "B",
+    "answerText": "40 days"
+  },
+  {
+    "id": "Q101",
+    "qNum": 101,
+    "question": "A and B together can do a job in 10 days. After they have worked together for 6 days, B leaves and A finishes the rest in 12 more days. A alone can do the whole job in:",
+    "options": {
+      "A": "24 days",
+      "B": "36 days",
+      "C": "40 days",
+      "D": "30 days"
+    },
+    "correctAnswer": "D",
+    "answerText": "30 days"
+  },
+  {
+    "id": "Q102",
+    "qNum": 102,
+    "question": "15 men can finish a job in 20 days. After 8 days, 5 men leave. The total time taken to finish the job is:",
+    "options": {
+      "A": "24 days",
+      "B": "28 days",
+      "C": "26 days",
+      "D": "30 days"
+    },
+    "correctAnswer": "C",
+    "answerText": "26 days"
+  },
+  {
+    "id": "Q103",
+    "qNum": 103,
+    "question": "3 men and 4 women can do a job in 8 days, and 6 men and 2 women can do it in 6 days. One woman alone can do the job in:",
+    "options": {
+      "A": "90 days",
+      "B": "60 days",
+      "C": "80 days",
+      "D": "72 days"
+    },
+    "correctAnswer": "D",
+    "answerText": "72 days"
+  },
+  {
+    "id": "Q104",
+    "qNum": 104,
+    "question": "A can do 1/3 of a job in 5 days and B can do 2/5 of it in 10 days. Working together they finish the job in:",
+    "options": {
+      "A": "9 3/8 days",
+      "B": "8¾ days",
+      "C": "12 days",
+      "D": "10 days"
+    },
+    "correctAnswer": "A",
+    "answerText": "9 3/8 days"
+  },
+  {
+    "id": "Q105",
+    "qNum": 105,
+    "question": "Two pipes fill a tank in 36 and 45 minutes. A third pipe empties it. If all three are opened together the tank fills in 60 minutes. The third pipe alone empties the full tank in:",
+    "options": {
+      "A": "40 min",
+      "B": "30 min",
+      "C": "24 min",
+      "D": "36 min"
+    },
+    "correctAnswer": "B",
+    "answerText": "30 min"
+  },
+  {
+    "id": "Q106",
+    "qNum": 106,
+    "question": "The number of distinct arrangements of the letters of the word COMMITTEE is:",
+    "options": {
+      "A": "40320",
+      "B": "45360",
+      "C": "181440",
+      "D": "90720"
+    },
+    "correctAnswer": "B",
+    "answerText": "45360"
+  },
+  {
+    "id": "Q107",
+    "qNum": 107,
+    "question": "The number of arrangements of the letters of MISSISSIPPI in which no two S’s are adjacent is:",
+    "options": {
+      "A": "6930",
+      "B": "8400",
+      "C": "5880",
+      "D": "7350"
+    },
+    "correctAnswer": "D",
+    "answerText": "7350"
+  },
+  {
+    "id": "Q108",
+    "qNum": 108,
+    "question": "5 boys and 4 girls are to sit in a row so that no two girls sit together. The number of ways is:",
+    "options": {
+      "A": "86400",
+      "B": "14400",
+      "C": "28800",
+      "D": "43200"
+    },
+    "correctAnswer": "D",
+    "answerText": "43200"
+  },
+  {
+    "id": "Q109",
+    "qNum": 109,
+    "question": "The number of 4-letter words (with or without meaning, no repetition) that can be formed from the letters of EQUATION and contain at least one vowel is:",
+    "options": {
+      "A": "1560",
+      "B": "1670",
+      "C": "1680",
+      "D": "1260"
+    },
+    "correctAnswer": "C",
+    "answerText": "1680"
+  },
+  {
+    "id": "Q110",
+    "qNum": 110,
+    "question": "The number of arrangements of all letters of EQUATION in which all the vowels come together is:",
+    "options": {
+      "A": "14400",
+      "B": "720",
+      "C": "2880",
+      "D": "5760"
+    },
+    "correctAnswer": "C",
+    "answerText": "2880"
+  },
+  {
+    "id": "Q111",
+    "qNum": 111,
+    "question": "A committee of 5 is to be chosen from 6 men and 5 women with at least 3 women. The number of ways is:",
+    "options": {
+      "A": "181",
+      "B": "175",
+      "C": "191",
+      "D": "186"
+    },
+    "correctAnswer": "A",
+    "answerText": "181"
+  },
+  {
+    "id": "Q112",
+    "qNum": 112,
+    "question": "The number of triangles that can be formed by joining the vertices of a decagon such that none of the sides of the triangle is a side of the decagon is:",
+    "options": {
+      "A": "60",
+      "B": "40",
+      "C": "50",
+      "D": "70"
+    },
+    "correctAnswer": "C",
+    "answerText": "50"
+  },
+  {
+    "id": "Q113",
+    "qNum": 113,
+    "question": "The number of triangles formed by 12 points in a plane, of which exactly 5 are collinear, is:",
+    "options": {
+      "A": "200",
+      "B": "190",
+      "C": "210",
+      "D": "220"
+    },
+    "correctAnswer": "C",
+    "answerText": "210"
+  },
+  {
+    "id": "Q114",
+    "qNum": 114,
+    "question": "The number of ways of distributing 12 identical sweets among 4 children so that each child gets at least one is:",
+    "options": {
+      "A": "220",
+      "B": "330",
+      "C": "165",
+      "D": "495"
+    },
+    "correctAnswer": "C",
+    "answerText": "165"
+  },
+  {
+    "id": "Q115",
+    "qNum": 115,
+    "question": "The number of integer solutions of x + y + z = 10 with x ≥ 1, y ≥ 2 and z ≥ 3 is:",
+    "options": {
+      "A": "15",
+      "B": "28",
+      "C": "36",
+      "D": "21"
+    },
+    "correctAnswer": "A",
+    "answerText": "15"
+  },
+  {
+    "id": "Q116",
+    "qNum": 116,
+    "question": "The number of 3-digit numbers divisible by 5 that can be formed from the digits 0, 1, 2, 3, 4, 5, 6, 7 without repetition is:",
+    "options": {
+      "A": "72",
+      "B": "90",
+      "C": "84",
+      "D": "78"
+    },
+    "correctAnswer": "D",
+    "answerText": "78"
+  },
+  {
+    "id": "Q117",
+    "qNum": 117,
+    "question": "The number of 5-digit numbers divisible by 4 that can be formed from the digits 1, 2, 3, 4, 5 without repetition is:",
+    "options": {
+      "A": "30",
+      "B": "18",
+      "C": "24",
+      "D": "36"
+    },
+    "correctAnswer": "C",
+    "answerText": "24"
+  },
+  {
+    "id": "Q118",
+    "qNum": 118,
+    "question": "5 married couples are to be seated around a circular table such that each husband sits next to his wife. The number of ways is:",
+    "options": {
+      "A": "1536",
+      "B": "120",
+      "C": "768",
+      "D": "384"
+    },
+    "correctAnswer": "C",
+    "answerText": "768"
+  },
+  {
+    "id": "Q119",
+    "qNum": 119,
+    "question": "The number of distinct necklaces that can be made using 7 distinct beads is:",
+    "options": {
+      "A": "360",
+      "B": "2520",
+      "C": "5040",
+      "D": "720"
+    },
+    "correctAnswer": "A",
+    "answerText": "360"
+  },
+  {
+    "id": "Q120",
+    "qNum": 120,
+    "question": "The number of ways of selecting three distinct numbers from 1, 2, ..., 30 so that their sum is divisible by 3 is:",
+    "options": {
+      "A": "1360",
+      "B": "1480",
+      "C": "1330",
+      "D": "1240"
+    },
+    "correctAnswer": "A",
+    "answerText": "1360"
+  },
+  {
+    "id": "Q121",
+    "qNum": 121,
+    "question": "A man walking at 5 km/h reaches his destination 10 minutes late. Walking at 6 km/h he reaches 5 minutes early. The distance is:",
+    "options": {
+      "A": "9 km",
+      "B": "7.5 km",
+      "C": "6.5 km",
+      "D": "8 km"
+    },
+    "correctAnswer": "B",
+    "answerText": "7.5 km"
+  },
+  {
+    "id": "Q122",
+    "qNum": 122,
+    "question": "A car covers the first third of a journey at 30 km/h, the next third at 40 km/h and the last third at 60 km/h. The average speed for the whole journey is:",
+    "options": {
+      "A": "40 km/h",
+      "B": "45 km/h",
+      "C": "42 km/h",
+      "D": "38 km/h"
+    },
+    "correctAnswer": "A",
+    "answerText": "40 km/h"
+  },
+  {
+    "id": "Q123",
+    "qNum": 123,
+    "question": "Two trains 150 m and 100 m long run in opposite directions at 54 km/h and 36 km/h. The time taken to cross each other is:",
+    "options": {
+      "A": "10 s",
+      "B": "12 s",
+      "C": "15 s",
+      "D": "8 s"
+    },
+    "correctAnswer": "A",
+    "answerText": "10 s"
+  },
+  {
+    "id": "Q124",
+    "qNum": 124,
+    "question": "A 200 m long train passes a 300 m long platform in 25 seconds. The speed of the train is:",
+    "options": {
+      "A": "72 km/h",
+      "B": "60 km/h",
+      "C": "66 km/h",
+      "D": "80 km/h"
+    },
+    "correctAnswer": "A",
+    "answerText": "72 km/h"
+  },
+  {
+    "id": "Q125",
+    "qNum": 125,
+    "question": "A train overtakes two men walking in the same direction at 4 km/h and 5 km/h in 9 s and 10 s respectively. The length of the train is:",
+    "options": {
+      "A": "36 m",
+      "B": "40 m",
+      "C": "25 m",
+      "D": "30 m"
+    },
+    "correctAnswer": "C",
+    "answerText": "25 m"
+  },
+  {
+    "id": "Q126",
+    "qNum": 126,
+    "question": "A boat’s speed in still water is 12 km/h and the stream flows at 3 km/h. If the boat takes 8 hours for a to-and-fro trip, the one-way distance is:",
+    "options": {
+      "A": "48 km",
+      "B": "54 km",
+      "C": "40 km",
+      "D": "45 km"
+    },
+    "correctAnswer": "D",
+    "answerText": "45 km"
+  },
+  {
+    "id": "Q127",
+    "qNum": 127,
+    "question": "A boat covers 24 km upstream and 36 km downstream in 6 hours, and 36 km upstream and 24 km downstream in 6½ hours. The speed of the stream is:",
+    "options": {
+      "A": "2.5 km/h",
+      "B": "1.5 km/h",
+      "C": "3 km/h",
+      "D": "2 km/h"
+    },
+    "correctAnswer": "D",
+    "answerText": "2 km/h"
+  },
+  {
+    "id": "Q128",
+    "qNum": 128,
+    "question": "In a 100 m race, A beats B by 10 m, and B beats C by 10 m. A beats C by:",
+    "options": {
+      "A": "21 m",
+      "B": "20 m",
+      "C": "19 m",
+      "D": "18 m"
+    },
+    "correctAnswer": "C",
+    "answerText": "19 m"
+  },
+  {
+    "id": "Q129",
+    "qNum": 129,
+    "question": "In a 1 km race A beats B by 100 m or by 20 seconds. B’s time for the 1 km is:",
+    "options": {
+      "A": "240 s",
+      "B": "220 s",
+      "C": "200 s",
+      "D": "180 s"
+    },
+    "correctAnswer": "C",
+    "answerText": "200 s"
+  },
+  {
+    "id": "Q130",
+    "qNum": 130,
+    "question": "A car leaves P at 40 km/h. One hour later another car leaves Q, 220 km away, towards P at 50 km/h. They meet at a distance from P of:",
+    "options": {
+      "A": "100 km",
+      "B": "140 km",
+      "C": "120 km",
+      "D": "130 km"
+    },
+    "correctAnswer": "C",
+    "answerText": "120 km"
+  },
+  {
+    "id": "Q131",
+    "qNum": 131,
+    "question": "Two trains start simultaneously from A and B towards each other. After meeting, the train from A takes 4 hours to reach B and the train from B takes 9 hours to reach A. The ratio of speeds of the trains (from A : from B) is:",
+    "options": {
+      "A": "9 : 4",
+      "B": "4 : 9",
+      "C": "3 : 2",
+      "D": "2 : 3"
+    },
+    "correctAnswer": "C",
+    "answerText": "3 : 2"
+  },
+  {
+    "id": "Q132",
+    "qNum": 132,
+    "question": "A train meets with an accident and then runs at ¾ of its usual speed, reaching 35 minutes late. Had the accident occurred 24 km further on, it would have been only 25 minutes late. The usual speed of the train is:",
+    "options": {
+      "A": "45 km/h",
+      "B": "50 km/h",
+      "C": "48 km/h",
+      "D": "40 km/h"
+    },
+    "correctAnswer": "C",
+    "answerText": "48 km/h"
+  },
+  {
+    "id": "Q133",
+    "qNum": 133,
+    "question": "A car takes 4 hours at a certain speed to cover a distance. To cover it in 3 hours, its speed must be raised by 20 km/h. The distance is:",
+    "options": {
+      "A": "200 km",
+      "B": "240 km",
+      "C": "300 km",
+      "D": "280 km"
+    },
+    "correctAnswer": "B",
+    "answerText": "240 km"
+  },
+  {
+    "id": "Q134",
+    "qNum": 134,
+    "question": "A man rows at 6 km/h in still water and the stream flows at 2 km/h. He rows to a place and back in 6 hours. The distance of the place is:",
+    "options": {
+      "A": "18 km",
+      "B": "16 km",
+      "C": "20 km",
+      "D": "12 km"
+    },
+    "correctAnswer": "B",
+    "answerText": "16 km"
+  },
+  {
+    "id": "Q135",
+    "qNum": 135,
+    "question": "A boat’s speed in still water is 15 km/h and the stream flows at 5 km/h. The average speed of the boat for a round trip over the same distance is:",
+    "options": {
+      "A": "13 1/3 km/h",
+      "B": "15 km/h",
+      "C": "14 km/h",
+      "D": "12.5 km/h"
+    },
+    "correctAnswer": "A",
+    "answerText": "13 1/3 km/h"
+  },
+  {
+    "id": "Q136",
+    "qNum": 136,
+    "question": "Two runners start together from the same point on a circular track of 360 m, running in the same direction at 8 m/s and 5 m/s. After how much time will both be at the starting point together again?",
+    "options": {
+      "A": "720 s",
+      "B": "360 s",
+      "C": "240 s",
+      "D": "120 s"
+    },
+    "correctAnswer": "B",
+    "answerText": "360 s"
+  },
+  {
+    "id": "Q137",
+    "qNum": 137,
+    "question": "A train crosses a 500 m bridge in 40 seconds and a pole in 15 seconds. The length of the train is:",
+    "options": {
+      "A": "400 m",
+      "B": "350 m",
+      "C": "250 m",
+      "D": "300 m"
+    },
+    "correctAnswer": "D",
+    "answerText": "300 m"
+  },
+  {
+    "id": "Q138",
+    "qNum": 138,
+    "question": "Two trains of equal length take 10 s and 15 s respectively to cross a pole. Running in opposite directions they cross each other in:",
+    "options": {
+      "A": "12.5 s",
+      "B": "12 s",
+      "C": "13 s",
+      "D": "11 s"
+    },
+    "correctAnswer": "B",
+    "answerText": "12 s"
+  },
+  {
+    "id": "Q139",
+    "qNum": 139,
+    "question": "Two trains 200 m and 150 m long run in the same direction; the faster crosses the slower in 70 s. Running in opposite directions they cross in 14 s. The speed of the faster train is:",
+    "options": {
+      "A": "54 km/h",
+      "B": "60 km/h",
+      "C": "45 km/h",
+      "D": "72 km/h"
+    },
+    "correctAnswer": "A",
+    "answerText": "54 km/h"
+  },
+  {
+    "id": "Q140",
+    "qNum": 140,
+    "question": "A man walking at ¾ of his usual speed reaches his office 20 minutes late. His usual time to reach the office is:",
+    "options": {
+      "A": "50 min",
+      "B": "75 min",
+      "C": "60 min",
+      "D": "80 min"
+    },
+    "correctAnswer": "C",
+    "answerText": "60 min"
+  },
+  {
+    "id": "Q141",
+    "qNum": 141,
+    "question": "A policeman spots a thief 200 m ahead. The thief runs at 10 km/h and the policeman at 11 km/h. The distance the thief runs before being caught is:",
+    "options": {
+      "A": "2000 m",
+      "B": "1500 m",
+      "C": "2400 m",
+      "D": "2200 m"
+    },
+    "correctAnswer": "A",
+    "answerText": "2000 m"
+  },
+  {
+    "id": "Q142",
+    "qNum": 142,
+    "question": "A car covers half a distance at 40 km/h and the other half at 60 km/h, taking 5 hours in all. The total distance is:",
+    "options": {
+      "A": "250 km",
+      "B": "220 km",
+      "C": "260 km",
+      "D": "240 km"
+    },
+    "correctAnswer": "D",
+    "answerText": "240 km"
+  },
+  {
+    "id": "Q143",
+    "qNum": 143,
+    "question": "Excluding stoppages a bus travels at 54 km/h; including stoppages it travels at 45 km/h. The bus stops for how many minutes per hour?",
+    "options": {
+      "A": "8",
+      "B": "12",
+      "C": "15",
+      "D": "10"
+    },
+    "correctAnswer": "D",
+    "answerText": "10"
+  },
+  {
+    "id": "Q144",
+    "qNum": 144,
+    "question": "A bus leaves a station at 40 km/h. Two hours later a car leaves the same station in the same direction at 60 km/h. The car overtakes the bus at a distance from the station of:",
+    "options": {
+      "A": "240 km",
+      "B": "280 km",
+      "C": "320 km",
+      "D": "200 km"
+    },
+    "correctAnswer": "A",
+    "answerText": "240 km"
+  },
+  {
+    "id": "Q145",
+    "qNum": 145,
+    "question": "A man travels 600 km partly by train at 80 km/h and the rest by car at 120 km/h, taking 6½ hours in all. The distance covered by train is:",
+    "options": {
+      "A": "360 km",
+      "B": "300 km",
+      "C": "420 km",
+      "D": "400 km"
+    },
+    "correctAnswer": "A",
+    "answerText": "360 km"
+  },
+  {
+    "id": "Q146",
+    "qNum": 146,
+    "question": "Car B leaves a town at 40 km/h. Thirty minutes later car A leaves the same town in the same direction at 60 km/h. A overtakes B after travelling:",
+    "options": {
+      "A": "90 km",
+      "B": "120 km",
+      "C": "80 km",
+      "D": "60 km"
+    },
+    "correctAnswer": "D",
+    "answerText": "60 km"
+  },
+  {
+    "id": "Q147",
+    "qNum": 147,
+    "question": "A and B cover the same distance at speeds in the ratio 5 : 6. A takes 1 hour more than B. The time taken by A is:",
+    "options": {
+      "A": "6 hours",
+      "B": "5 hours",
+      "C": "8 hours",
+      "D": "7 hours"
+    },
+    "correctAnswer": "A",
+    "answerText": "6 hours"
+  },
+  {
+    "id": "Q148",
+    "qNum": 148,
+    "question": "A boat’s speed in still water is 8 km/h and the stream flows at 2 km/h. It goes 15 km downstream and returns the same distance. The total time taken is:",
+    "options": {
+      "A": "5 hours",
+      "B": "3.5 hours",
+      "C": "4 hours",
+      "D": "4.5 hours"
+    },
+    "correctAnswer": "C",
+    "answerText": "4 hours"
+  },
+  {
+    "id": "Q149",
+    "qNum": 149,
+    "question": "A 150 m long train passes a man running at 6 km/h in the same direction in 9 seconds. The speed of the train is:",
+    "options": {
+      "A": "66 km/h",
+      "B": "60 km/h",
+      "C": "72 km/h",
+      "D": "75 km/h"
+    },
+    "correctAnswer": "A",
+    "answerText": "66 km/h"
+  },
+  {
+    "id": "Q150",
+    "qNum": 150,
+    "question": "Two cyclists start from the same point on a circular track of 800 m, in the same direction, at 18 km/h and 27 km/h. They first meet after:",
+    "options": {
+      "A": "320 s",
+      "B": "360 s",
+      "C": "300 s",
+      "D": "280 s"
+    },
+    "correctAnswer": "A",
+    "answerText": "320 s"
+  },
+  {
+    "id": "Q151",
+    "qNum": 151,
+    "question": "What is the remainder when 21^875 is divided by 17?",
+    "options": {
+      "A": "13",
+      "B": "4",
+      "C": "9",
+      "D": "16"
+    },
+    "correctAnswer": "A",
+    "answerText": "13"
+  },
+  {
+    "id": "Q152",
+    "qNum": 152,
+    "question": "The highest power of 12 that divides 50! exactly is:",
+    "options": {
+      "A": "12^22",
+      "B": "12^24",
+      "C": "12^23",
+      "D": "12^21"
+    },
+    "correctAnswer": "A",
+    "answerText": "12^22"
+  },
+  {
+    "id": "Q153",
+    "qNum": 153,
+    "question": "In how many ways can 360 be written as a product of two coprime factors (order of the factors ignored)?",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "4",
+      "D": "3"
+    },
+    "correctAnswer": "C",
+    "answerText": "4"
+  },
+  {
+    "id": "Q154",
+    "qNum": 154,
+    "question": "The HCF of (2^48 − 1) and (2^36 − 1) is:",
+    "options": {
+      "A": "1023",
+      "B": "4095",
+      "C": "8191",
+      "D": "2047"
+    },
+    "correctAnswer": "B",
+    "answerText": "4095"
+  },
+  {
+    "id": "Q155",
+    "qNum": 155,
+    "question": "The unit digit of 2^(3^50) is:",
+    "options": {
+      "A": "6",
+      "B": "4",
+      "C": "8",
+      "D": "2"
+    },
+    "correctAnswer": "D",
+    "answerText": "2"
+  },
+  {
+    "id": "Q156",
+    "qNum": 156,
+    "question": "How many positive integers not exceeding 1000 are coprime to 1000?",
+    "options": {
+      "A": "500",
+      "B": "250",
+      "C": "333",
+      "D": "400"
+    },
+    "correctAnswer": "D",
+    "answerText": "400"
+  },
+  {
+    "id": "Q157",
+    "qNum": 157,
+    "question": "The average age of 10 persons is 30 years. Two persons aged 24 and 36 leave and three new persons join, making the average age of the group 29 years. The sum of the ages of the three new persons is:",
+    "options": {
+      "A": "75",
+      "B": "79",
+      "C": "84",
+      "D": "81"
+    },
+    "correctAnswer": "B",
+    "answerText": "79"
+  },
+  {
+    "id": "Q158",
+    "qNum": 158,
+    "question": "What is the remainder when 10^10 + 10^100 + 10^1000 + 10^10000 is divided by 7?",
+    "options": {
+      "A": "6",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "correctAnswer": "C",
+    "answerText": "2"
+  },
+  {
+    "id": "Q159",
+    "qNum": 159,
+    "question": "The smallest 4-digit number which leaves a remainder of 5 when divided by 6, 7, 8 and 9 is:",
+    "options": {
+      "A": "1517",
+      "B": "1021",
+      "C": "1008",
+      "D": "1013"
+    },
+    "correctAnswer": "D",
+    "answerText": "1013"
+  },
+  {
+    "id": "Q160",
+    "qNum": 160,
+    "question": "The LCM of two numbers is 12 times their HCF, and the sum of the LCM and HCF is 403. If one number is 93, the other number is:",
+    "options": {
+      "A": "31",
+      "B": "124",
+      "C": "93",
+      "D": "372"
+    },
+    "correctAnswer": "B",
+    "answerText": "124"
+  },
+  {
+    "id": "Q161",
+    "qNum": 161,
+    "question": "A milkman adds water to milk and sells the mixture at the cost price of pure milk, thereby gaining 25%. The percentage of water in the mixture is:",
+    "options": {
+      "A": "30%",
+      "B": "25%",
+      "C": "16 2/3%",
+      "D": "20%"
+    },
+    "correctAnswer": "D",
+    "answerText": "20%"
+  },
+  {
+    "id": "Q162",
+    "qNum": 162,
+    "question": "Three numbers are in the ratio 2 : 3 : 5 and the sum of their squares is 1368. The largest number is:",
+    "options": {
+      "A": "36",
+      "B": "40",
+      "C": "30",
+      "D": "24"
+    },
+    "correctAnswer": "C",
+    "answerText": "30"
+  },
+  {
+    "id": "Q163",
+    "qNum": 163,
+    "question": "The ages of a father and son are in the ratio 7 : 2. After 5 years the ratio will be 8 : 3. The father’s age 10 years from now will be:",
+    "options": {
+      "A": "55",
+      "B": "40",
+      "C": "45",
+      "D": "50"
+    },
+    "correctAnswer": "C",
+    "answerText": "45"
+  },
+  {
+    "id": "Q164",
+    "qNum": 164,
+    "question": "20% of the registered voters did not vote. The winner got 52% of the votes cast and won by 2400 votes. The number of registered voters is:",
+    "options": {
+      "A": "72,000",
+      "B": "60,000",
+      "C": "75,000",
+      "D": "80,000"
+    },
+    "correctAnswer": "C",
+    "answerText": "75,000"
+  },
+  {
+    "id": "Q165",
+    "qNum": 165,
+    "question": "A mixture of spirit and water is in the ratio 3 : 2. When 10 litres of the mixture is drawn off and replaced by water, the ratio becomes 2 : 3. The initial quantity of the mixture was:",
+    "options": {
+      "A": "30 L",
+      "B": "35 L",
+      "C": "25 L",
+      "D": "40 L"
+    },
+    "correctAnswer": "A",
+    "answerText": "30 L"
+  },
+  {
+    "id": "Q166",
+    "qNum": 166,
+    "question": "A garrison of 2400 men has provisions for 30 days. After 10 days, 400 men leave. For how many more days will the remaining provisions last?",
+    "options": {
+      "A": "27",
+      "B": "20",
+      "C": "24",
+      "D": "25"
+    },
+    "correctAnswer": "C",
+    "answerText": "24"
+  },
+  {
+    "id": "Q167",
+    "qNum": 167,
+    "question": "The value of a diamond is proportional to the square of its weight. If it breaks into three pieces whose weights are in the ratio 2 : 3 : 5, the percentage loss in value is:",
+    "options": {
+      "A": "58%",
+      "B": "38%",
+      "C": "62%",
+      "D": "50%"
+    },
+    "correctAnswer": "C",
+    "answerText": "62%"
+  },
+  {
+    "id": "Q168",
+    "qNum": 168,
+    "question": "The salaries of A and B are in the ratio 3 : 5. If each gets an increment of Rs 1000, the ratio becomes 2 : 3. A’s present salary is:",
+    "options": {
+      "A": "Rs 3000",
+      "B": "Rs 2400",
+      "C": "Rs 4000",
+      "D": "Rs 3600"
+    },
+    "correctAnswer": "A",
+    "answerText": "Rs 3000"
+  },
+  {
+    "id": "Q169",
+    "qNum": 169,
+    "question": "The price of rice rises by 20%. By what percentage must a family cut its consumption so that its expenditure rises by only 8%?",
+    "options": {
+      "A": "10%",
+      "B": "12%",
+      "C": "15%",
+      "D": "8%"
+    },
+    "correctAnswer": "A",
+    "answerText": "10%"
+  },
+  {
+    "id": "Q170",
+    "qNum": 170,
+    "question": "A merchant has 1000 kg of sugar, part of which he sells at 8% profit and the rest at 18% profit. His overall profit is 14%. The quantity sold at 8% profit is:",
+    "options": {
+      "A": "500 kg",
+      "B": "600 kg",
+      "C": "450 kg",
+      "D": "400 kg"
+    },
+    "correctAnswer": "D",
+    "answerText": "400 kg"
+  },
+  {
+    "id": "Q171",
+    "qNum": 171,
+    "question": "A shopkeeper marks goods 40% above cost, allows two successive discounts of 10% and x%, and still earns a 12% profit. The value of x is:",
+    "options": {
+      "A": "10%",
+      "B": "12.5%",
+      "C": "8 1/3 %",
+      "D": "11 1/9 %"
+    },
+    "correctAnswer": "D",
+    "answerText": "11 1/9 %"
+  },
+  {
+    "id": "Q172",
+    "qNum": 172,
+    "question": "A man sells two articles at the same price, one at a 25% gain and the other at a 20% loss. His overall result is:",
+    "options": {
+      "A": "2.5% loss",
+      "B": "No gain, no loss",
+      "C": "2.44% gain",
+      "D": "2.44% loss"
+    },
+    "correctAnswer": "D",
+    "answerText": "2.44% loss"
+  },
+  {
+    "id": "Q173",
+    "qNum": 173,
+    "question": "A man sold an article at 20% profit. Had he bought it at 20% less and sold it for Rs 75 less, his profit would have been 25%. The original cost price was:",
+    "options": {
+      "A": "Rs 375",
+      "B": "Rs 400",
+      "C": "Rs 300",
+      "D": "Rs 450"
+    },
+    "correctAnswer": "A",
+    "answerText": "Rs 375"
+  },
+  {
+    "id": "Q174",
+    "qNum": 174,
+    "question": "A sum at simple interest amounts to Rs 815 in 3 years and Rs 854 in 4 years. The sum is:",
+    "options": {
+      "A": "Rs 698",
+      "B": "Rs 700",
+      "C": "Rs 676",
+      "D": "Rs 720"
+    },
+    "correctAnswer": "A",
+    "answerText": "Rs 698"
+  },
+  {
+    "id": "Q175",
+    "qNum": 175,
+    "question": "A loan at 10% p.a. compound interest is repaid in three equal annual instalments of Rs 2662 each. The amount of the loan is:",
+    "options": {
+      "A": "Rs 7986",
+      "B": "Rs 6000",
+      "C": "Rs 6650",
+      "D": "Rs 6620"
+    },
+    "correctAnswer": "D",
+    "answerText": "Rs 6620"
+  },
+  {
+    "id": "Q176",
+    "qNum": 176,
+    "question": "The difference between the compound interest and the simple interest on a sum for 3 years at 10% p.a. is Rs 93. The sum is:",
+    "options": {
+      "A": "Rs 3300",
+      "B": "Rs 2800",
+      "C": "Rs 3100",
+      "D": "Rs 3000"
+    },
+    "correctAnswer": "D",
+    "answerText": "Rs 3000"
+  },
+  {
+    "id": "Q177",
+    "qNum": 177,
+    "question": "[Students appeared | Passed (%) in five colleges – A: 1200, 75; B: 1500, 64; C: 800, 90; D: 2000, 55; E: 1000, 82]. The overall pass percentage of all five colleges together is approximately:",
+    "options": {
+      "A": "71.40%",
+      "B": "70.12%",
+      "C": "69.23%",
+      "D": "68.50%"
+    },
+    "correctAnswer": "C",
+    "answerText": "69.23%"
+  },
+  {
+    "id": "Q178",
+    "qNum": 178,
+    "question": "[Students appeared | Passed (%) in five colleges – A: 1200, 75; B: 1500, 64; C: 800, 90; D: 2000, 55; E: 1000, 82]. The total number of students who failed in colleges B and D together is:",
+    "options": {
+      "A": "1440",
+      "B": "1260",
+      "C": "1520",
+      "D": "1350"
+    },
+    "correctAnswer": "A",
+    "answerText": "1440"
+  },
+  {
+    "id": "Q179",
+    "qNum": 179,
+    "question": "[Students appeared | Passed (%) in five colleges – A: 1200, 75; B: 1500, 64; C: 800, 90; D: 2000, 55; E: 1000, 82]. The ratio of the number of students who passed in A to the number who passed in E is:",
+    "options": {
+      "A": "45 : 41",
+      "B": "41 : 45",
+      "C": "75 : 82",
+      "D": "9 : 8"
+    },
+    "correctAnswer": "A",
+    "answerText": "45 : 41"
+  },
+  {
+    "id": "Q180",
+    "qNum": 180,
+    "question": "[Students appeared | Passed (%) in five colleges – A: 1200, 75; B: 1500, 64; C: 800, 90; D: 2000, 55; E: 1000, 82]. If 20% of the failed students of college D pass after revaluation, the new pass percentage of college D becomes:",
+    "options": {
+      "A": "60%",
+      "B": "64%",
+      "C": "66%",
+      "D": "62%"
+    },
+    "correctAnswer": "B",
+    "answerText": "64%"
+  },
+  {
+    "id": "Q181",
+    "qNum": 181,
+    "question": "A and B together can do a job in 12 days, B and C in 15 days, and C and A in 20 days. C alone can do the job in:",
+    "options": {
+      "A": "60 days",
+      "B": "30 days",
+      "C": "40 days",
+      "D": "45 days"
+    },
+    "correctAnswer": "A",
+    "answerText": "60 days"
+  },
+  {
+    "id": "Q182",
+    "qNum": 182,
+    "question": "A can do a job in 24 days and B in 30 days. They start together, A leaves after some days, and B finishes the work so that the job takes 20 days in all. A worked for:",
+    "options": {
+      "A": "8 days",
+      "B": "6 days",
+      "C": "10 days",
+      "D": "12 days"
+    },
+    "correctAnswer": "A",
+    "answerText": "8 days"
+  },
+  {
+    "id": "Q183",
+    "qNum": 183,
+    "question": "Pipes P and Q fill a tank in 12 and 16 minutes, and pipe R empties it in 24 minutes. They are opened one at a time for 1 minute each in the order P, Q, R, and this cycle repeats. The tank is filled in:",
+    "options": {
+      "A": "27¾ min",
+      "B": "27 min",
+      "C": "30 min",
+      "D": "28 min"
+    },
+    "correctAnswer": "A",
+    "answerText": "27¾ min"
+  },
+  {
+    "id": "Q184",
+    "qNum": 184,
+    "question": "A and B can do a job in 12 and 16 days respectively. With C’s help they finish it in 4 days. If Rs 4800 is paid in proportion to work done, C’s share is:",
+    "options": {
+      "A": "Rs 1800",
+      "B": "Rs 1600",
+      "C": "Rs 2000",
+      "D": "Rs 2400"
+    },
+    "correctAnswer": "C",
+    "answerText": "Rs 2000"
+  },
+  {
+    "id": "Q185",
+    "qNum": 185,
+    "question": "A is thrice as efficient as B and takes 40 days less than B to finish a job. Working together they will finish it in:",
+    "options": {
+      "A": "20 days",
+      "B": "12 days",
+      "C": "18 days",
+      "D": "15 days"
+    },
+    "correctAnswer": "D",
+    "answerText": "15 days"
+  },
+  {
+    "id": "Q186",
+    "qNum": 186,
+    "question": "The number of distinct arrangements of the letters of the word ARRANGEMENT is:",
+    "options": {
+      "A": "39,91,680",
+      "B": "12,47,400",
+      "C": "49,89,600",
+      "D": "24,94,800"
+    },
+    "correctAnswer": "D",
+    "answerText": "24,94,800"
+  },
+  {
+    "id": "Q187",
+    "qNum": 187,
+    "question": "The number of rectangles that are not squares on an 8 × 8 chessboard is:",
+    "options": {
+      "A": "204",
+      "B": "1188",
+      "C": "1296",
+      "D": "1092"
+    },
+    "correctAnswer": "D",
+    "answerText": "1092"
+  },
+  {
+    "id": "Q188",
+    "qNum": 188,
+    "question": "The number of ways of putting 6 different persons into 3 different rooms so that no room is empty is:",
+    "options": {
+      "A": "450",
+      "B": "360",
+      "C": "729",
+      "D": "540"
+    },
+    "correctAnswer": "D",
+    "answerText": "540"
+  },
+  {
+    "id": "Q189",
+    "qNum": 189,
+    "question": "The number of 4-digit numbers whose digits add up to 5 is:",
+    "options": {
+      "A": "56",
+      "B": "20",
+      "C": "35",
+      "D": "15"
+    },
+    "correctAnswer": "C",
+    "answerText": "35"
+  },
+  {
+    "id": "Q190",
+    "qNum": 190,
+    "question": "The number of ways of placing 5 letters in 5 addressed envelopes so that no letter is in its correct envelope is:",
+    "options": {
+      "A": "44",
+      "B": "53",
+      "C": "60",
+      "D": "45"
+    },
+    "correctAnswer": "A",
+    "answerText": "44"
+  },
+  {
+    "id": "Q191",
+    "qNum": 191,
+    "question": "A train starts 30 minutes late and, by raising its speed by 25%, reaches its 150 km destination on time. Its usual speed is:",
+    "options": {
+      "A": "75 km/h",
+      "B": "48 km/h",
+      "C": "50 km/h",
+      "D": "60 km/h"
+    },
+    "correctAnswer": "D",
+    "answerText": "60 km/h"
+  },
+  {
+    "id": "Q192",
+    "qNum": 192,
+    "question": "A boat takes 3 hours to go 30 km downstream and 3 hours to go 18 km upstream. The speed of the boat in still water is:",
+    "options": {
+      "A": "8 km/h",
+      "B": "10 km/h",
+      "C": "12 km/h",
+      "D": "6 km/h"
+    },
+    "correctAnswer": "A",
+    "answerText": "8 km/h"
+  },
+  {
+    "id": "Q193",
+    "qNum": 193,
+    "question": "A train leaves station A at 6:00 a.m. at 60 km/h. A second train leaves A on the same track at 8:00 a.m. at 90 km/h. The second train overtakes the first at a distance from A of:",
+    "options": {
+      "A": "420 km",
+      "B": "360 km",
+      "C": "300 km",
+      "D": "240 km"
+    },
+    "correctAnswer": "B",
+    "answerText": "360 km"
+  },
+  {
+    "id": "Q194",
+    "qNum": 194,
+    "question": "Two athletes start from the same point of a circular track of 1 km in opposite directions at 4 m/s and 7 m/s. How many times do they meet in the first 1 hour (not counting the start)?",
+    "options": {
+      "A": "40",
+      "B": "36",
+      "C": "39",
+      "D": "33"
+    },
+    "correctAnswer": "C",
+    "answerText": "39"
+  },
+  {
+    "id": "Q195",
+    "qNum": 195,
+    "question": "In a 1 km race A beats B by 50 m, and B beats C by 100 m in the same distance. A beats C by:",
+    "options": {
+      "A": "150 m",
+      "B": "140 m",
+      "C": "145 m",
+      "D": "155 m"
+    },
+    "correctAnswer": "C",
+    "answerText": "145 m"
+  },
+  {
+    "id": "Q196",
+    "qNum": 196,
+    "question": "Two persons 36 km apart start walking towards each other at 4 km/h and 5 km/h. A dog starting with the first person runs back and forth between them at 12 km/h until they meet. The distance run by the dog is:",
+    "options": {
+      "A": "36 km",
+      "B": "54 km",
+      "C": "60 km",
+      "D": "48 km"
+    },
+    "correctAnswer": "D",
+    "answerText": "48 km"
+  },
+  {
+    "id": "Q197",
+    "qNum": 197,
+    "question": "A boat’s speed in still water is 10 km/h and the stream flows at 2 km/h. It takes 3 hours more to go a certain distance upstream than downstream. The distance is:",
+    "options": {
+      "A": "90 km",
+      "B": "80 km",
+      "C": "72 km",
+      "D": "60 km"
+    },
+    "correctAnswer": "C",
+    "answerText": "72 km"
+  },
+  {
+    "id": "Q198",
+    "qNum": 198,
+    "question": "Two trains 120 m and 180 m long run in the same direction at 54 km/h and 90 km/h respectively (the faster being 180 m long). A passenger in the slower train sees the faster train pass him in:",
+    "options": {
+      "A": "18 s",
+      "B": "12 s",
+      "C": "20 s",
+      "D": "30 s"
+    },
+    "correctAnswer": "A",
+    "answerText": "18 s"
+  },
+  {
+    "id": "Q199",
+    "qNum": 199,
+    "question": "A person goes to office at 20 km/h and returns at 30 km/h. If the whole trip takes 2½ hours, the distance of the office from his home is:",
+    "options": {
+      "A": "24 km",
+      "B": "25 km",
+      "C": "30 km",
+      "D": "36 km"
+    },
+    "correctAnswer": "C",
+    "answerText": "30 km"
+  },
+  {
+    "id": "Q200",
+    "qNum": 200,
+    "question": "A cyclist rides 120 km at a steady speed. Had his speed been 6 km/h more, he would have taken 1 hour less. His speed is:",
+    "options": {
+      "A": "18 km/h",
+      "B": "24 km/h",
+      "C": "20 km/h",
+      "D": "30 km/h"
+    },
+    "correctAnswer": "B",
+    "answerText": "24 km/h"
+  }
+]
