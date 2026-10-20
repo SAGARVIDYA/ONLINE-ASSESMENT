@@ -156,7 +156,7 @@ export default function App() {
 
     // Shuffle questions
     const shuffled = shuffleQuestions(localQuestions);
-    const durationSeconds = 90 * 60; // 90 minutes
+    const durationSeconds = 120 * 60; // 120 minutes
     const startTime = new Date().toISOString();
     const deadline = new Date(Date.now() + durationSeconds * 1000).toISOString();
     const attemptId = 'local_' + Date.now() + '_' + Math.random().toString(36).substring(2, 8);
@@ -264,7 +264,7 @@ export default function App() {
     const percentage = Number(((score / qList.length) * 100).toFixed(2));
     const now = new Date();
     const startTime = new Date(targetAttempt.startTime || now);
-    const durationSeconds = Math.min(5400, Math.max(1, Math.round((now.getTime() - startTime.getTime()) / 1000)));
+    const durationSeconds = Math.min(7200, Math.max(1, Math.round((now.getTime() - startTime.getTime()) / 1000)));
 
     const result = {
       id: targetAttempt.id,

@@ -73,8 +73,8 @@ app.post('/api/attempts/start', (req, res) => {
     const shuffledQuestions = shuffleArray(allQuestions);
     const randomizedOrder = shuffledQuestions.map(q => q.original_id);
 
-    // Duration is exactly 90 minutes (5400 seconds)
-    const durationSeconds = 90 * 60;
+    // Duration is exactly 120 minutes (7200 seconds)
+    const durationSeconds = 120 * 60;
     const now = new Date();
     const startTimeStr = now.toISOString();
     const deadline = new Date(now.getTime() + durationSeconds * 1000).toISOString();
@@ -244,7 +244,7 @@ app.post('/api/attempts/submit', (req, res) => {
     const submittedAt = now.toISOString();
 
     const startTime = new Date(attempt.start_time);
-    const durationSeconds = Math.min(5400, Math.max(1, Math.round((now.getTime() - startTime.getTime()) / 1000)));
+    const durationSeconds = Math.min(7200, Math.max(1, Math.round((now.getTime() - startTime.getTime()) / 1000)));
 
     db.prepare(`
       UPDATE attempts SET

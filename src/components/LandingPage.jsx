@@ -120,8 +120,8 @@ export default function LandingPage({ onStartAssessment, onViewHistory, defaultN
                   <Clock className="w-3.5 h-3.5 text-amber-400" />
                   Duration
                 </span>
-                <span className="text-2xl font-bold text-white mt-1">90 Min</span>
-                <span className="text-[11px] text-slate-400">1 hr 30 mins</span>
+                <span className="text-2xl font-bold text-white mt-1">120 Min</span>
+                <span className="text-[11px] text-slate-400">2 hrs 00 mins</span>
               </div>
 
               <div className="bg-slate-800/80 border border-slate-700 rounded-xl p-3.5 flex flex-col">
@@ -153,7 +153,7 @@ export default function LandingPage({ onStartAssessment, onViewHistory, defaultN
                 <li>Questions appear in randomized order for every attempt.</li>
                 <li>You can navigate questions freely using the Question Palette.</li>
                 <li>Mark questions for review to revisit before submission.</li>
-                <li>The exam will automatically submit when the 90-minute timer expires.</li>
+                <li>The exam will automatically submit when the 120-minute timer expires.</li>
                 <li>Unlimited retakes are permitted; all attempts are saved in your history.</li>
               </ul>
             </div>
@@ -278,7 +278,7 @@ export default function LandingPage({ onStartAssessment, onViewHistory, defaultN
               </div>
               <div className="flex justify-between">
                 <span className="text-slate-400">Duration:</span>
-                <span className="text-amber-300 font-medium">90 Minutes (1:30:00)</span>
+                <span className="text-amber-300 font-medium">120 Minutes (2:00:00)</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-slate-400">Total Questions:</span>
@@ -287,7 +287,7 @@ export default function LandingPage({ onStartAssessment, onViewHistory, defaultN
             </div>
 
             <p className="text-xs text-slate-300 mb-6 leading-relaxed">
-              Once you click <strong>Confirm & Begin</strong>, your timer of 90 minutes will commence immediately. Are you ready to begin?
+              Once you click <strong>Confirm & Begin</strong>, your timer of 120 minutes will commence immediately. Are you ready to begin?
             </p>
 
             <div className="flex gap-3">

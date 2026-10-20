@@ -23,7 +23,7 @@ The application accurately imports all **200 original Numerical Aptitude questio
    - Shuffled sequence is locked to the attempt and preserved across navigation and page refreshes.
 
 4. **Interactive Exam Interface**:
-   - **Header**: Live countdown timer in `HH:MM:SS` format (90 minutes / 1 hr 30 mins), candidate info, and answered progress indicator.
+   - **Header**: Live countdown timer in `HH:MM:SS` format (120 minutes / 2 hours), candidate info, and answered progress indicator.
    - **Question Workspace**: Displays one question at a time with 4 selectable radio options (A, B, C, D).
    - **Controls**: Previous, Next, Clear Response, Mark for Review (with purple bookmark badge).
    - **Question Palette**: 200-question responsive grid with real-time status indicators:
@@ -35,7 +35,7 @@ The application accurately imports all **200 original Numerical Aptitude questio
    - Instant jump to any question by clicking its palette number.
 
 5. **Server-Validated Timer & Auto-Submit**:
-   - 90-minute countdown with low-time warning banner (< 5 minutes).
+   - 120-minute countdown with low-time warning banner (< 5 minutes).
    - Automatically submits when the timer reaches zero.
    - Confirmation modal on manual submission showing answered, unanswered, and marked counts.
 
@@ -136,4 +136,4 @@ The test suite validates:
 | **Unanswered** | 0 marks |
 | **Negative Marking** | None |
 | **Total Marks** | 200 marks |
-| **Duration** | 90 minutes (5400 seconds) |
+| **Duration** | 120 minutes (7200 seconds) |
